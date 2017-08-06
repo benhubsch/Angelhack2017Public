@@ -33,9 +33,9 @@ Our frontend was built using [React](https://facebook.github.io/react/) and [Bul
 
 ## Demo
 
-Click on this image to be taken to a video demo of Parro:
+Hackathon.io link: [http://www.hackathon.io/870541](http://www.hackathon.io/870541).
 
-[![IMAGE ALT TEXT HERE](parro-vid.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+Proper demo coming soon!
 
 ## Contributing
 
