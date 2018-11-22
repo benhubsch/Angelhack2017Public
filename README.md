@@ -35,8 +35,6 @@ Our frontend was built using [React](https://facebook.github.io/react/) and [Bul
 
 Hackathon.io link: [http://www.hackathon.io/870541](http://www.hackathon.io/870541).
 
-Proper demo coming soon!
-
 ## Contributing
 
 Interested in contributing to this project? Feel free! Create a branch, add commits, and [open a pull request](https://github.com/benhubsch/Parro/compare/).
